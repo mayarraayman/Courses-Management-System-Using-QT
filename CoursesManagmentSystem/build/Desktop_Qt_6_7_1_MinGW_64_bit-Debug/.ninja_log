@@ -1,0 +1,71 @@
+# ninja log v5
+28	266	7382774552815168	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+28	266	7382774552815168	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+282	3021	7382774580351705	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+668	3800	7382774069116990	CMakeFiles/CoursesManagmentSystem.dir/main.cpp.obj	430295b26b38fb5d
+28	266	7382774552815168	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+28	266	7382774552815168	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+656	3914	7382774070246025	CMakeFiles/CoursesManagmentSystem.dir/CoursesManagmentSystem_autogen/mocs_compilation.cpp.obj	e0010a91d79ad18b
+275	3309	7382774583240277	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+3568	3811	7382774588186672	CoursesManagmentSystem.exe	845761c8d1f62694
+6	537	7382784010307781	build.ninja	4f91a6de5cf02f11
+289	3561	7382774585756436	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+279	3270	7382774582830022	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+286	3567	7382774585832772	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+0	46	0	CMakeFiles/clean.additional	baedbe210acaa455
+46	63	0	clean	577b940aee94fbd7
+15	188	7382784142210238	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+15	188	7382784142210238	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+15	188	7382784142210238	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+15	188	7382784142210238	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+197	287	7382784143186508	CoursesManagmentSystem_autogen/EWIEGA46WW/qrc_resource.cpp	ead5679185e789fa
+197	287	7382784143186508	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/EWIEGA46WW/qrc_resource.cpp	ead5679185e789fa
+303	1308	7382784153437561	CMakeFiles/CoursesManagmentSystem.dir/CoursesManagmentSystem_autogen/EWIEGA46WW/qrc_resource.cpp.obj	e22e280e1578eacd
+290	4128	7382784181630415	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+287	4373	7382784184081662	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+294	4409	7382784184420335	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+311	4590	7382784186252595	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+298	4674	7382784187078865	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+4675	4950	7382784189804737	CoursesManagmentSystem.exe	2aa4d117cc297772
+5	198	7382788125967086	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+5	198	7382788125967086	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+5	198	7382788125967086	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+5	198	7382788125967086	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+211	2975	7382788153626505	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+216	3114	7382788155133376	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+207	3139	7382788155366795	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+227	3377	7382788157711647	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+222	3383	7382788157821384	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+3383	3723	7382788161139316	CoursesManagmentSystem.exe	2aa4d117cc297772
+19	219	7382790236745798	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+19	219	7382790236745798	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+19	219	7382790236745798	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+19	219	7382790236745798	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+232	3075	7382790265304228	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+228	3246	7382790267001781	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+237	3279	7382790267345126	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+246	3668	7382790271249780	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+241	3674	7382790271299772	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+3674	3933	7382790273803558	CoursesManagmentSystem.exe	2aa4d117cc297772
+9	1821	7384132844394417	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+9	1821	7384132844394417	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+9	1821	7384132844394417	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+9	1821	7384132844394417	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+1835	9995	7384132927738320	CMakeFiles/CoursesManagmentSystem.dir/main.cpp.obj	430295b26b38fb5d
+1841	9996	7384132927738320	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+1822	10004	7384132927738320	CMakeFiles/CoursesManagmentSystem.dir/CoursesManagmentSystem_autogen/mocs_compilation.cpp.obj	e0010a91d79ad18b
+1847	10012	7384132928016940	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+1858	10022	7384132928156509	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+1829	10024	7384132928145435	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+1852	10038	7384132928318945	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+10039	11266	7384132940422528	CoursesManagmentSystem.exe	2aa4d117cc297772
+15	381	7384204906181398	CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+15	381	7384204906181398	CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+15	381	7384204906181398	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/timestamp	7046de771ffe559b
+15	381	7384204906181398	D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CoursesManagmentSystem_autogen/mocs_compilation.cpp	7046de771ffe559b
+401	7563	7384204978159185	CMakeFiles/CoursesManagmentSystem.dir/submitassignments.cpp.obj	322368926560709f
+413	7571	7384204978238806	CMakeFiles/CoursesManagmentSystem.dir/enrollcourses.cpp.obj	a98ee7441220d6bd
+407	7637	7384204978910602	CMakeFiles/CoursesManagmentSystem.dir/mainwindow.cpp.obj	107f35216010c7b6
+425	7793	7384204980426531	CMakeFiles/CoursesManagmentSystem.dir/findcourses.cpp.obj	71e344d9f5b0907e
+419	7936	7384204981820791	CMakeFiles/CoursesManagmentSystem.dir/viewgrades.cpp.obj	1e607c663a940d61
+7936	8288	7384204985210187	CoursesManagmentSystem.exe	2aa4d117cc297772

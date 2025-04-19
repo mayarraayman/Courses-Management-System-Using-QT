@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c3b04485327d9f43528d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CoursesManagmentSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CoursesManagmentSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoursesManagmentSystem-Debug-a438dc59503f31cc0c82.json",
+					"name" : "CoursesManagmentSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoursesManagmentSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoursesManagmentSystem_autogen-Debug-1eaef7df9e33e776eac2.json",
+					"name" : "CoursesManagmentSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoursesManagmentSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoursesManagmentSystem_autogen_timestamp_deps-Debug-051f99c008b4d825abb9.json",
+					"name" : "CoursesManagmentSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "D:/NU/ED/Semester 2/Intro to Programming/Project/CoursesManagmentSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
